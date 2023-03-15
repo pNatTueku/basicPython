@@ -1,0 +1,9 @@
+{
+    "name": "Natty",
+    "age": 15,
+    "address": {"street": "LIM", "district": "BPI"},
+    "phone_no": [
+        {"type": "home", "number": 123456}, {"type": "work", "number": 987654}
+    ],
+    "blood_type": "B"
+}
